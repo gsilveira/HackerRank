@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SsXs79LAPm7gl6z299lAwUetBZKXq9Z+rJaELTzL+xMls2Uxx5WFqtsvk7ZwQkGcfIGH26j2m79E2CGii3WUCw==",
+  "success": true,
+  "projectFilePath": "/Users/gsilveira/Documents/HackerRank/HackerRank/HackerRank.csproj",
+  "expectedPackageFiles": [
+    "/Users/gsilveira/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/gsilveira/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/gsilveira/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/gsilveira/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/gsilveira/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/gsilveira/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
